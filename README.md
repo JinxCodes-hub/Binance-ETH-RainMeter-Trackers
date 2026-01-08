@@ -3,7 +3,7 @@
 A sleek, lightweight Rainmeter skin that visualizes the real-time Buy/Sell ratio for ETH/USDT directly from the Binance Futures API.
 
 ## 📺 Preview
-![Live Demo]()
+![Live Demo](Binance-Trackers-GIF.gif)
 
 ## 📊 Features
 - **Live Data:** Fetches real-time order book depth from Binance.
